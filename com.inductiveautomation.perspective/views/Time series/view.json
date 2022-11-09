@@ -95,6 +95,7 @@
             "width": 1
           },
           "outerAxis": {
+            "a": "value",
             "data": "value",
             "maxValue": 120,
             "percentRadius": 100,
@@ -123,7 +124,8 @@
           },
           "style": {
             "classes": []
-          }
+          },
+          "value": 2
         },
         "type": "ia.chart.gauge"
       }
